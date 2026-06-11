@@ -101,7 +101,6 @@ charity-management-system/
 | Role  | Email               | Password |
 |-------|---------------------|----------|
 | Admin | admin@charity.com   | password |
-| Donor | shreya@example.com  | password |
 
 > ⚠️ Change these immediately after setup.
 
@@ -115,10 +114,4 @@ charity-management-system/
 | `categories`   | Donation categories (Education, Food...) |
 | `donations`    | Transaction records linking donors & beneficiaries |
 
-## Screenshots
 
-> Add screenshots of dashboard, donate page, and reports here.
-
-## License
-
-MIT License
